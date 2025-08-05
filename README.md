@@ -1,4 +1,4 @@
-# AidensGame
+# Aidens Game
 
 ### Start Screen
 
